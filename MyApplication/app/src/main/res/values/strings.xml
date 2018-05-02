@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">MyHouse</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="MyHome_name">MyHouse</string>
+    <string name="MyHome_description">The App to Help Organise Your Shared House</string>
+    <string name="Summary_page_title">Summary</string>
+    <string name="Cleaning_page_title">Cleaning</string>
+    <string name="Bills_page_title">Bills</string>
+    <string name="Calendar_page_title">Calendar</string>
+    <string name="feedback">Feedback</string>
+    <string name="Account_page_title">Account</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="signout">Sign Out</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="question1">Are bills included in the rent?</string>
+    <string name="account_frag_houseFlat">House or Flat?</string>
+    <string name="account_frag_house">House</string>
+    <string name="account_frag_flat">Flat</string>
+    <string name="account_frag_number">House or Flat Number</string>
+    <string name="number">Number</string>
+    <string name="account_frag_line1">Address Line 1</string>
+    <string name="account_frag_postcode">Postcode</string>
+    <string name="update">Update Account Details</string>
+    <string name="summary_frag">Summary</string>
+    <string name="account_frag_city">City</string>
+    <string name="account_frag_nosharers">Total Number of Housemates</string>
+    <string name="summary_frag_livewith">You live with</string>
+    <string name="summary_frag_housemates">Housemates</string>
+    <string name="bills_fragment">Bills</string>
+    <string name="bills_frag_addBillLabel">Add Bill</string>
+    <string name="bills_frag_ammount">Amount</string>
+    <string name="bills_frag_daysbefore">Days Before Bill Due Date</string>
+    <string name="bills_frag_duedate">Due Date</string>
+    <string name="bills_frag_reminder">Reminder?</string>
+    <string name="summary_frag_currentBills">Current Bills</string>
+    <string name="bills_frag_splitbillevenly">Split Bill Evenly</string>
+    <string name="bills_frag_otherbills">Bill Name</string>
+    <string name="feedback_frag_submit">Submit Feedback</string>
+    <string name="editBill_frag_editbill">Edit Bill</string>
+    <string name="feedback_frag_todo">Enter your feedback and select your feedback rating</string>
+    <string name="MyHome_name_logo">MyHouse Logo</string>
+    <string name="signed_in_name">Signed in name</string>
+    <string name="singin_button">Singin Button</string>
+    <string name="button_update_account_details">button update account details</string>
+    <string name="label_for_current_bills">label for current bills</string>
+    <string name="list_view_for_summary">list view for summary</string>
+    <string name="label_for_summary">label for summary</string>
+    <string name="label_for_feedback_rating">label for feedback rating</string>
+    <string name="input_feedback">Input feedback</string>
+    <string name="input_for_bill_name">input for bill name</string>
+    <string name="Help_page_Title">User Help</string>
+    <!--<string name="set_bill_reminder_time">Set Bill Reminder Time</string>-->
+    <string name="input_for_bill_reminder_time">input for bill reminder time</string>
+    <string name="checkbx_for_splitting_bill">Checkbx for splitting bill</string>
+    <string name="input_for_bill_due_date">Input for bill due date</string>
+    <string name="calendar">Calendar</string>
+    <string name="input_for_reminder_time">Input for reminder time</string>
+    <string name="set_bill_reminder_time">Set Bill Reminder Time</string>
+    <string name="input_for_checkbox_splitting_bill">input for checkbox splitting bill</string>
+    <string name="help_page">Help Page</string>
+    <string-array name="bill_type">
+        <item>Select</item>
+        <item>Water</item>
+        <item>Electricity</item>
+        <item>Gas</item>
+        <item>WiFi</item>
+        <item>Other</item>
+    </string-array>
+</resources>

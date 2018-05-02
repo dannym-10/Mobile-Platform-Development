@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_summary"
+            android:icon="@drawable/ic_assignment_black_24dp"
+            android:title="Summary" />
+        />
+        <!--<item-->
+            <!--android:id="@+id/nav_cleaning"-->
+            <!--android:icon="@drawable/ic_brush_black_24dp"-->
+            <!--android:title="Cleaning" />-->
+        <!--/>-->
+        <item
+            android:id="@+id/nav_bills"
+            android:icon="@drawable/ic_attach_money_black_24dp"
+            android:title="Bills" />
+        />
+        <item
+            android:id="@+id/nav_calendar"
+            android:icon="@drawable/ic_date_range_black_24dp"
+            android:title="Calendar" />
+        />
+        <item
+            android:id="@+id/nav_account"
+            android:icon="@drawable/ic_account_circle_black_24dp"
+            android:title="Account" />
+        />
+    </group>
+</menu>
